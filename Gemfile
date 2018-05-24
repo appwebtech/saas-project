@@ -53,6 +53,7 @@ gem 'milia'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'activesupport', '~> 5.0.7'
 gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
 
 

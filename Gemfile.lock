@@ -201,6 +201,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-session_store!
+  activesupport (~> 5.0.7)
   byebug
   coffee-rails (~> 4.2)
   devise
