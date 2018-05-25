@@ -55,6 +55,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'activesupport', '~> 5.0.7'
 gem 'bootstrap-datepicker-rails', '~> 1.8', '>= 1.8.0.1'
+gem 'aws-sdk'
 gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
 
 
